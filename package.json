@@ -4,12 +4,14 @@
   "description": "> educational project, original source article is here (https://stanko.github.io/webpack-babel-react-revisited/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^3.7.1"
+    "webpack": "^3.7.1",
+    "webpack-dev-server": "^2.9.1"
   }
 }
