@@ -1,0 +1,15 @@
+{
+  "name": "webpack-babel-react-boilerplate",
+  "version": "1.0.0",
+  "description": "> educational project, original source article is here (https://stanko.github.io/webpack-babel-react-revisited/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
